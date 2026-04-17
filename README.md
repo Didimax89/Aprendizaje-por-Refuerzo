@@ -20,13 +20,3 @@ Este repositorio contiene la implementación de un agente inteligente que aprend
 * Visualización con Pygame
 
 Para ver toda la explicación técnica, el modelado (MDP) y el análisis de resultados, consultar el **[informe](informe_lab6_laura_diego.pdf)**.
-
----
-
-### Ejecución
-```bash
-# 1. Instalar dependencias
-pip install pygame numpy matplotlib
-
-# 2. Ejecutar la simulación
-python codigo_lab6_laura_diego.py
