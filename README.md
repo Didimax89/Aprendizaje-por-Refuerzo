@@ -19,7 +19,7 @@ Este repositorio contiene la implementación de un agente inteligente que aprend
 * Reward Shaping
 * Visualización con Pygame
 
-Para ver toda la explicación técnica, el modelado (MDP) y el análisis de resultados, consultar el **[Informe de la práctica (PDF)](informe_lab6_laura_diego.pdf)**.
+Para ver toda la explicación técnica, el modelado (MDP) y el análisis de resultados, consultar el **[informe](informe_lab6_laura_diego.pdf)**.
 
 ---
 
